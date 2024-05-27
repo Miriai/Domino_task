@@ -5,10 +5,10 @@ The function takes a collection of sequences of an arbitrary type,
 and merges pairs of sequences under specific conditions,
 until all possible merges have been accomplished.
 
-Run the "Domino_task.cpp" file
+Run the "Domino_task.cpp" file.
 
 To insert sequences- insert each one on a separate line.
-To finish, insert a blank line
+To finish, enter an empty line.
 
 ## Merging conditions:
 1. The order of sequences in both input and output collections is irrelevant (`['abc', 'cde']` is equivalent to `['cde', 'abc']`)
