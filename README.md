@@ -7,7 +7,7 @@ until all possible merges have been accomplished.
 
 Run the "Domino_task.cpp" file
 
-To insert sequences- insert each one on a separate line
+To insert sequences- insert each one on a separate line.
 To finish, insert a blank line
 
 ## Merging conditions:
